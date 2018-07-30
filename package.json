@@ -1,0 +1,26 @@
+{
+  "name": "graphql-udemy-users",
+  "version": "1.0.0",
+  "description": "demo app for the udemy graphql class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "udemy",
+    "graphql",
+    "users"
+  ],
+  "author": "Matthew Wilkinson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-plugin-react": "^7.10.0"
+  }
+}
